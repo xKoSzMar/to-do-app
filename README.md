@@ -1,6 +1,6 @@
 # To Do Application
 
-This application is frontend to do list.
+This application is a frontend to do list.
 
 It was created using:
 
@@ -35,8 +35,8 @@ The website is running on your localhost: http://localhost:5173/
 
 # When you have any problems with starting the app, check solutions below
 
-In case of any problems with vite that is also crucial part of frontend please update it to the latest version:
+In case of any problems with vite please update it to the latest version:
 
 > npm install vite@latest --save-dev
 
-If you have aby problem with running this app, please try to update your Node.js to the latest version.
+If you still have a problem with running this app, please try to update your Node.js to the latest version.
