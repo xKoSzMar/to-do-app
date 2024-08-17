@@ -33,6 +33,10 @@ To run this application, run this command in to-do-app folder:
 
 The website is running on your localhost: http://localhost:5173/
 
+Alternatively, you can run the application using Docker Compose
+
+> docker compose up
+
 # When you have any problems with starting the app, check solutions below
 
 In case of any problems with vite please update it to the latest version:
